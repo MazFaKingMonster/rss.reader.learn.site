@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Новости-Хуёвости!</title>
+    <link>http://news.learn.site/news.php</link>
+    <item>
+      <title>Часик ждем</title>
+      <link>http://news.learn.site/news.php?id=22</link>
+      <description><![CDATA[Время 14:12 
+Надо подождать часик]]></description>
+      <pub_date>Sat, 24 Sep 2022 14:12:42 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Ура!</title>
+      <link>http://news.learn.site/news.php?id=21</link>
+      <description><![CDATA[Я сделал ебанную рсс читалку)]]></description>
+      <pub_date>Sat, 24 Sep 2022 14:06:17 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>llll</title>
+      <link>http://news.learn.site/news.php?id=20</link>
+      <description><![CDATA[lllll]]></description>
+      <pub_date>Sat, 24 Sep 2022 11:28:24 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>ппп</title>
+      <link>http://news.learn.site/news.php?id=19</link>
+      <description><![CDATA[ппп]]></description>
+      <pub_date>Sat, 24 Sep 2022 11:12:23 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>иии</title>
+      <link>http://news.learn.site/news.php?id=18</link>
+      <description><![CDATA[иии]]></description>
+      <pub_date>Fri, 23 Sep 2022 20:33:41 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>aaa</title>
+      <link>http://news.learn.site/news.php?id=17</link>
+      <description><![CDATA[aaa]]></description>
+      <pub_date>Fri, 23 Sep 2022 20:14:12 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>nnn</title>
+      <link>http://news.learn.site/news.php?id=16</link>
+      <description><![CDATA[mmm]]></description>
+      <pub_date>Fri, 23 Sep 2022 17:27:19 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>ccc</title>
+      <link>http://news.learn.site/news.php?id=15</link>
+      <description><![CDATA[ccc]]></description>
+      <pub_date>Fri, 23 Sep 2022 17:26:19 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Почему не работает?</title>
+      <link>http://news.learn.site/news.php?id=14</link>
+      <description><![CDATA[у меня истерика]]></description>
+      <pub_date>Fri, 23 Sep 2022 17:22:10 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Почему не работает?</title>
+      <link>http://news.learn.site/news.php?id=13</link>
+      <description><![CDATA[у меня истерика]]></description>
+      <pub_date>Fri, 23 Sep 2022 17:21:26 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Работай сука</title>
+      <link>http://news.learn.site/news.php?id=12</link>
+      <description><![CDATA[Все еще не работает!]]></description>
+      <pub_date>Fri, 23 Sep 2022 17:02:24 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Новость для неработающей ленты</title>
+      <link>http://news.learn.site/news.php?id=11</link>
+      <description><![CDATA[Ебаная рсс лента не работает!]]></description>
+      <pub_date>Fri, 23 Sep 2022 16:58:26 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Новость для ленты</title>
+      <link>http://news.learn.site/news.php?id=7</link>
+      <description><![CDATA[Я сделал рсс ленту!]]></description>
+      <pub_date>Fri, 23 Sep 2022 16:55:52 +0300</pub_date>
+      <category>Спорт</category>
+    </item>
+    <item>
+      <title>Новость-Хуёвость</title>
+      <link>http://news.learn.site/news.php?id=6</link>
+      <description><![CDATA[В Мире политике пиздец!
+Президент Мухосранска не обращает внимание на сранный кинотеатр!]]></description>
+      <pub_date>Thu, 22 Sep 2022 19:10:29 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+  </channel>
+</rss>
