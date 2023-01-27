@@ -1,7 +1,7 @@
 <?php
-const RSS_URL = "http://news.learn.site/rss.xml";
+const RSS_URL = "http://news.learn.site/news/rss.xml";
 const FILE_NAME = "news.xml";
-const RSS_TTL = 3600;
+const RSS_TTL = 3;
 
 function download($url, $filename){
     $file = file_get_contents($url);

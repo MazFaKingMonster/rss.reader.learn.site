@@ -4,6 +4,20 @@
     <title>Новости-Хуёвости!</title>
     <link>http://news.learn.site/news.php</link>
     <item>
+      <title>Новость еще новее</title>
+      <link>http://news.learn.site/news.php?id=26</link>
+      <description><![CDATA[ну прям свежачок]]></description>
+      <pub_date>Fri, 27 Jan 2023 15:42:52 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
+      <title>Новая Новость</title>
+      <link>http://news.learn.site/news.php?id=25</link>
+      <description><![CDATA[Новая новасть]]></description>
+      <pub_date>Fri, 27 Jan 2023 15:37:27 +0300</pub_date>
+      <category>Политика</category>
+    </item>
+    <item>
       <title>Часик ждем</title>
       <link>http://news.learn.site/news.php?id=22</link>
       <description><![CDATA[Время 14:12 
